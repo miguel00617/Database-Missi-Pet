@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @miguel00617
-- 👀 Estoy interesado en todo lo relacionado con datos
-- 🌱 Estoy aprendiendo ciencia de datos, con practicas y conocimientos en BI, base de datos, automatización, machine learning, IA, extracción de datos, etc.
-- 💞️ Estoy buscando colaborar en proyectos de ciencia de datos y análisis de datos y tood de datos
-- 😄 Pronouns: El
